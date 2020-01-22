@@ -10,6 +10,5 @@ Able to run Python pages.
 Built With:
 Python, Jupyter Notebook, Matplot, Numpy, Panda
 
-
 Authors:
 Arundeep Chohan, Surohit, Miho and Erika 
